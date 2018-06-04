@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/integration/ItemNotFoundException.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/integration/ExternalInventorySystem.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/controller/Controller.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/model/SaleInformation.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/view/TotalRevenueView.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/integration/ItemRegistryException.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/view/View.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/integration/RegistryCreator.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/integration/ItemRegistry.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/startup/Main.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/integration/ExternalAccountingSystem.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/model/InvalidPaymentException.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/integration/ItemDTO.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/test/integration/PrinterTest.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/model/RevenueObserver.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/util/LogHandler.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/model/Receipt.java</file>
+            <file>file:/C:/Users/User/Documents/Object%20Oriented%20Design/sem3/src/model/Sale.java</file>
+        </group>
+    </open-files>
+</project-private>

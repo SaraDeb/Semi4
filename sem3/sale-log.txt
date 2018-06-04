@@ -1,0 +1,18 @@
+2018-jun-04 13:44:26, Exception was thrown: database failure, can not access ID:TE
+integration.ItemRegistryException: database failure, can not access ID:TE
+	at integration.ItemRegistry.findItem(ItemRegistry.java:30)
+	at controller.Controller.enterItemIDAndQuantity(Controller.java:91)
+	at view.View.sampleExecution(View.java:39)
+	at startup.Main.main(Main.java:29)
+2018-jun-04 13:44:26, Exception was thrown: The money you paid50is not enough80kr
+model.InvalidPaymentException: The money you paid50is not enough80kr
+	at model.Sale.calculateChange(Sale.java:139)
+	at controller.Controller.enterPaidCash(Controller.java:110)
+	at view.View.sampleExecution(View.java:54)
+	at startup.Main.main(Main.java:29)
+2018-jun-04 13:44:26, Exception was thrown: The IDKhjrfis not found
+integration.ItemNotFoundException: The IDKhjrfis not found
+	at integration.ItemRegistry.findItem(ItemRegistry.java:36)
+	at controller.Controller.enterItemIDAndQuantity(Controller.java:91)
+	at view.View.sampleExecution(View.java:71)
+	at startup.Main.main(Main.java:29)
