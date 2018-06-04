@@ -116,12 +116,7 @@ public class Controller {
         return changeAmount;
     }
     
-    /**
-   * The specified observer will be notified after a sale
-   * has been paid. 
-   * 
-   * @param revenueObserver  observer to notify.
-   */
+  
     
     public void addRevenueObserver(RevenueObserver revenueObserver) {
     revenueObservers.add(revenueObserver);
